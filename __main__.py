@@ -65,7 +65,7 @@ from mrjoker.modules.helper_funcs.misc import paginate_modules
 from mrjoker.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝓜𝓻,𝓙𝓸𝓴𝓮𝓻](https://telegra.ph/file/6525d89de5b72003d80fa.png)
+Hello there, I'm [𝓜𝓻,LDrago](https://telegra.ph/file/665b42fbbe3cf3572094d.jpg)
 
 I am English Themed Group Managing Bot and I will help in managing your group like a pro user
 
@@ -81,14 +81,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="☘️ Add Mr.Joker to your group ☘️", url="t.me/mrjokerpro_bot?startgroup=true"
+            text="☘️ Add Mr.Ldrago to your group ☘️", url="t.me/Ldrago_bot?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/6525d89de5b72003d80fa.png)
+*Main Commands :* [🤖](https://telegra.ph/file/665b42fbbe3cf3572094d.jpg)
 🔹 /start: Starts me! SEE MAGIC☠️.
 🔹 /help: Click this, ALL MY COMMAND 😎!
 🔹 /donate: temporary Not available (+_+).
